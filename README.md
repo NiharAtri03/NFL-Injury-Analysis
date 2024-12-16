@@ -8,7 +8,7 @@ This was a project I consider impressive as I was able to successfully build a m
 This file tests hypotheses related to player injury for statistical significance and cleans the data to only include relevant information.
 
 **modeling.ipynb**\
-This file preprocesses the data to prepare it for model input, implements Stochastic Gradient Descent, Gradient Boosted trees, Logistic Regression with Scikit-learn, and displays metrics such as ROC curve, learning loss, and accuracy to evaluate each model.
+This file preprocesses the data to prepare it for model input, implements Stochastic Gradient Descent, Gradient Boosted trees, and Logistic Regression with cross validation, and displays metrics such as ROC curve, learning loss, and accuracy to evaluate each model.
 
 **modeling_NN.ipynb**\
-This file preprocesses the data to prepare it for model input, implements a deep neural network in PyTOrch, and displays metrics such as ROC curve, learning loss, and accuracy to evaluate the model.
+This file preprocesses the data to prepare it for model input, implements a deep neural network in PyTorch with dimensionality reduction and cross validation, and displays metrics such as ROC curve, learning loss, and accuracy to evaluate the model.
