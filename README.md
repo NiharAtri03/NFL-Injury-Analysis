@@ -11,4 +11,4 @@ This file tests hypotheses related to player injury for statistical significance
 This file preprocesses the data to prepare it for model input, implements Stochastic Gradient Descent, Gradient Boosted trees, Logistic Regression with Scikit-learn, and displays metrics such as ROC curve, learning loss, and accuracy to evaluate each model.
 
 **modeling_NN.ipynb**\
-This file preprocesses the data to prepare it for model input, implements a deep neural network in PyTOrch, and displays metrics such as ROC curve, learning loss, and accuracy to evaluate each model.
+This file preprocesses the data to prepare it for model input, implements a deep neural network in PyTOrch, and displays metrics such as ROC curve, learning loss, and accuracy to evaluate the model.
